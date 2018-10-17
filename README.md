@@ -7,7 +7,7 @@ Through intimate coaching sessions and support, AGS and TeachOSM are helping Tea
 Contestants are competing in teams for cash prizes. Awards will be based on both quantity and quality of contributions. Teams have multiple chances to win cash prizes – with a $500 prize for the first place team, four $250 prizes for runner-ups, and a number of other cash prizes your team might find themselves surprised to be winning along the way!
 
 **WHHAT DO STUDENTS AND TEACHERS GAIN FROM THIS EXPERIENCE?**
-In short, open mapping is an unparalleled tool for making spatial concepts tangible. It connects the practice of mapping directly to geographic content presented in the APHG curriculum. This contest is designed to emphasize this connection by rewarding student mappers and teachers in several ways. Including:
+In short, open mapping is an unparalleled tool for making spatial concepts tangible. It connects the practice of mapping directly to geographic content presented in the APHG curriculum. This contest is designed to emphasize this connection by rewarding student mappers and teachers in several ways. Including:  
 ● To add open mapping to your repertoire of geographic teaching techniques  
 ● To experience geography and spatial awareness first hand  
 ● To make tangible key spatial concepts in the APHG curriculum  
