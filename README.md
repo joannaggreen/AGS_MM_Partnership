@@ -8,14 +8,14 @@ Contestants are competing in teams for cash prizes. Awards will be based on both
 
 **WHHAT DO STUDENTS AND TEACHERS GAIN FROM THIS EXPERIENCE?**
 In short, open mapping is an unparalleled tool for making spatial concepts tangible. It connects the practice of mapping directly to geographic content presented in the APHG curriculum. This contest is designed to emphasize this connection by rewarding student mappers and teachers in several ways. Including:
-● To add open mapping to your repertoire of geographic teaching techniques
-● To experience geography and spatial awareness first hand
-● To make tangible key spatial concepts in the APHG curriculum
-● Develop geographic literacy starting in your own backyard
-● Experience the rewards of creating valuable public maps
-● Showcase your school’s academic prowess in geography
-● Give back to your community as a citizen scientist
-● [GeoBadges](http://geobadges.org/) awarded to teachers and students for demonstrated mapping achievements
+● To add open mapping to your repertoire of geographic teaching techniques  
+● To experience geography and spatial awareness first hand  
+● To make tangible key spatial concepts in the APHG curriculum  
+● Develop geographic literacy starting in your own backyard  
+● Experience the rewards of creating valuable public maps  
+● Showcase your school’s academic prowess in geography  
+● Give back to your community as a citizen scientist  
+● [GeoBadges](http://geobadges.org/) awarded to teachers and students for demonstrated mapping achievements  
 
 The American Geographical Society (AGS) and Teach OpenStreetMap (TeachOSM) have trained over 150 educators and instructors in open mapping techniques since 2016. Together, our mutual goal has been to help educators bring the power of mapping to their classrooms by helping them apply open mapping techniques to their curriculum. If teachers find this to be a valuable exercise for their students, AGS and TeachOSM will implement additional rounds focusing on mapping other geographical and geospatial concepts such as roads and transportation
 networks.
