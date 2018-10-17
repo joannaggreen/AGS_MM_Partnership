@@ -20,4 +20,4 @@ In short, open mapping is an unparalleled tool for making spatial concepts tangi
 The American Geographical Society (AGS) and Teach OpenStreetMap (TeachOSM) have trained over 150 educators and instructors in open mapping techniques since 2016. Together, our mutual goal has been to help educators bring the power of mapping to their classrooms by helping them apply open mapping techniques to their curriculum. If teachers find this to be a valuable exercise for their students, AGS and TeachOSM will implement additional rounds focusing on mapping other geographical and geospatial concepts such as roads and transportation
 networks.
 
-With the help of Humanitairan OpenStreetMap and Missing Maps, AGS and TeachOSM have put together a leaderboard so that AGS Geography Teacher Fellows and their student mappers can track their progress.
+With the help of Humanitarian OpenStreetMap and Missing Maps, AGS and TeachOSM have put together a leaderboard so that AGS Geography Teacher Fellows and their student mappers can track their progress.
